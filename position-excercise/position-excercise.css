@@ -1,0 +1,41 @@
+body
+{
+	margin: 0;
+	background: url('outerspace_landscape.jpeg') no-repeat;
+	background-size: 100%;
+}
+.nav
+{
+	height: 60px;
+  	background-color: grey;
+  	position: fixed;
+  	width: 100%;
+  	padding-left: 80px;
+}
+.icon
+{
+	height: 50px;
+  	margin-top: 5px;
+  	margin-bottom: 5px;
+  	border-radius: 50%;
+  	vertical-align: middle;
+  	border: 1px solid black;
+}
+a
+{
+	position: relative;
+	left: 60px;
+}
+.spacecat
+{
+	width: 200px;
+	margin-top: 130px;
+	margin-left:130px
+}
+.spacedog
+{
+	position: relative;
+	left: 600px;
+	top: 300px;
+	width: 200px;
+}
